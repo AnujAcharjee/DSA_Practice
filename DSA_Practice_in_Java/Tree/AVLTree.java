@@ -1,4 +1,4 @@
-package DSA_Practice_in_Java;
+package DSA_Practice_in_Java.Tree;
 
 // AVLTree: Self-Balancing Binary Search Tree
 // Height invariant: (height(left) - height(right)) <= 1 for all nodes

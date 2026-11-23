@@ -1,4 +1,4 @@
-package DSA_Practice_in_Java;
+package DSA_Practice_in_Java.Tree;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

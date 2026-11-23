@@ -1,4 +1,4 @@
-package DSA_Practice_in_Java.Graph;
+package DSA_Practice_in_Java.Graph.Traversal;
 
 import java.util.ArrayList;
 import java.util.HashSet;
